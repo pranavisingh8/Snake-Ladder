@@ -1,6 +1,6 @@
 # Snake-Ladder
 
-# Snake and Ladder Game in Python
+## Snake and Ladder Game in Python
 This is a simple Snake and Ladder game developed using Python. The game is implemented using basic Python programming concepts and can be played via the command line interface.
 
 ## Features

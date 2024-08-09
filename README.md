@@ -9,8 +9,4 @@ Roll the dice, brace for twists, and navigate the game's challenges, aiming for 
 Embrace the simplicity and excitement of Snake and Ladder brought to life in Python. Engage in hours of entertainment as luck intertwines with skill on this exhilarating journey.
 
 ## Features
-Player Movement: Players can roll the dice and move according to the number they get on the dice roll.
 
-Snake and Ladder: The game features the classic snake and ladder elements where landing on a ladder takes you up and landing on a snake brings you down.
-
-Win Condition: The game continues until a player reaches the final position, declaring them as the winner.
